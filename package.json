@@ -1,0 +1,20 @@
+{
+  "name": "league-of-legends-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.2"
+  }
+}
